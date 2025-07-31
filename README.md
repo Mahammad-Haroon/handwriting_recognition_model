@@ -111,7 +111,7 @@ kannada-handwriting-recognition/
 
 > Upload an image like this:
 
-![sample](static/sample_image.jpg)
+
 
 > Output:
 
@@ -131,12 +131,7 @@ kannada-handwriting-recognition/
 
 ## 👨‍💻 Author
 
-**Your Name**
-Final Year MTech Student
-Email: [your.email@example.com](mailto:your.email@example.com)
+**MAHAMMAD HAROON **
+Email:mahammadharoon14@gmail.com
 
 ---
-
-## 📄 License
-
-This project is for academic purposes.
